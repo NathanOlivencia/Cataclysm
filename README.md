@@ -9,8 +9,8 @@ This game was created by the following artists and programmers:
 * Ophélie Eygrier https://www.linkedin.com/in/oph%C3%A9lie-eygrier-79150a196/
 * Christopher Girault https://www.linkedin.com/in/christopher-girault-13a334196/
 * Nicolas Martin https://swiik.artstation.com/
-<br>
 <br/>
+
 * Charlie Adzuar
 * David Drouin
 * Nathan Olivencia https://github.com/NathanOlivencia
