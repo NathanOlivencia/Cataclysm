@@ -11,7 +11,6 @@ This game was created by the following artists and programmers:
 * Nicolas Martin https://swiik.artstation.com/
 <br>
 <br/>
-
 * Charlie Adzuar
 * David Drouin
 * Nathan Olivencia https://github.com/NathanOlivencia
