@@ -14,7 +14,7 @@ This game was created by the following artists and programmers:
 * Charlie Adzuar
 * David Drouin
 * Nathan Olivencia https://github.com/NathanOlivencia
-* Jérôme Vaglienti https://github.com/JayJPP2
+* Jérôme Vaglienti https://github.com/JeromeVaglienti
 
 This version only works on 1920*1080 screen
 
